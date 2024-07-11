@@ -32,3 +32,6 @@
 	path = fuzz/corpora
 	url = https://github.com/openssl/fuzz-corpora
 	branch = main
+[submodule "ngx_devel_kit"]
+	path = ngx_devel_kit
+	url = git@github.com:linwoodpendleton/ngx_devel_kit.git
